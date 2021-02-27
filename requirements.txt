@@ -1,0 +1,3 @@
+# Dependencies required for this CodeScreen test.
+
+pytest==4.4.0
